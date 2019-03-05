@@ -9,7 +9,7 @@
   "dependencies": {
     "boom": "2.6.x",
     "extend": "2.0.x",
-    "joi": "6.x.x"
+    "joi": "14.x.x"
   },
   "deprecated": false,
   "description": "Express Middleware for Walmart's Joi Validator",
@@ -35,7 +35,7 @@
   "main": "index.js",
   "name": "express-joi-validator",
   "peerDependencies": {
-    "joi": "6.x.x"
+    "joi": "14.x.x"
   },
   "repository": {
     "type": "git",
