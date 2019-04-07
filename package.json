@@ -7,19 +7,19 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "boom": "2.6.x",
+    "boom": "^7.3.0",
     "extend": "2.0.x",
-    "joi": "6.x.x"
+    "joi": "14.x.x"
   },
   "deprecated": false,
   "description": "Express Middleware for Walmart's Joi Validator",
   "devDependencies": {
     "body-parser": "1.10.x",
     "chai": "1.10.x",
-    "express": "4.10.x",
-    "istanbul": "0.3.x",
-    "mocha": "2.1.x",
-    "supertest": "0.15.x"
+    "express": "^4.16.4",
+    "istanbul": "^0.4.5",
+    "mocha": "^6.0.2",
+    "supertest": "^3.4.2"
   },
   "engines": {
     "node": ">=0.10.30"
@@ -35,7 +35,7 @@
   "main": "index.js",
   "name": "express-joi-validator",
   "peerDependencies": {
-    "joi": "6.x.x"
+    "joi": "14.x.x"
   },
   "repository": {
     "type": "git",
